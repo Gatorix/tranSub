@@ -1,1264 +1,732 @@
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}LAWS OF REPUBLIC OF TURKEY
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}土耳其共和国法律
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Poor Agah.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}可怜的阿加
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Munir?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}尼穆尔?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Munir?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}尼穆尔?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Where are you, my boy?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你在哪里？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Munir?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}尼穆尔?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Munir?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}尼穆尔?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Munir?
-{\fad(200,200)}{\fad(200,200)}尼穆尔?{\fad(200,200)}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Come on boy, it's time for breakfast.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}快出来，该吃早餐了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Where are you?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你在哪里？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Munir!
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}尼穆尔?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Where are you, sir?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你在哪？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Munir?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}尼穆尔?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Have you gone to a vacation or something?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你去度假了吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}No.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}没有
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}So Munir has never been alone?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}尼穆尔从来没有一个人在家待过吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}No.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}没有
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You haven't delayed his treatment?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你从来没有延误它的治疗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}No, I was giving him the cat food that you gave me for his...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}没有，我给它的食物是您给我用于治疗它的......
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Acute kidney failure.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}急性肾功能衰竭
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Yes.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}是
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Did he die because of that?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}他是因此而死吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Because of acute kidney failure.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}因为急性肾衰竭
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Not just that. The cat has also been dehydrated.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}不仅如此，它也已经脱水了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}How?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}什么？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}MUNIR - MY LOVELY CAT
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}尼穆尔 - 我可爱的猫
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Man, what are we going to do with her?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}兄弟，我们该拿她怎么办？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}She's been here for six months.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}她来这里已经六个月了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}and they are still talking about Nevra.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}但人们仍然在谈论内芙拉
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You are bothered because you couldn't sleep with her.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你是因为睡不到她才觉得难受吧
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Fuck off. What the fuck are you talking about?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}滚蛋，你他妈在说什么？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}How many of my classmates is crazy about coming here
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我有很多同学想来这里都想疯了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}do you know?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你知道吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}She literally came here out of nowhere.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}她简直就是凭空出现的
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Do you know why? Because she is a woman.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你知道为什么吗？因为她是女人
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}They called it positive discrimination.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}他们称其为积极性区别对待
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}What part of this is positive?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}哪里有积极的一面？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}There are many strong men out there.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}外面有好多猛男呢
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}But for them it's necessary to put Nevra into the spotlight.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}但对他们来说，有必要将内芙拉放在首位
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Nevra, Nevra.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}内芙拉, 内芙拉.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Fuck that thing called 'human resources'.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}去他妈的“人力资源部”
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}What does it have to do with that?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}这和这有什么关系？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)} Let's say you're out there with Nevra.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}假设您和内芙拉在一起
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Would you trust Nevra? Could you trust her?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你会信任内芙拉吗？你会信任她吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I would trust more if it was a man holding the gun.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}如果是个拿枪的男人，我会相信的
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}At least it would be clear what he'd do.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}至少很清楚他会做什么
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}See
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}是啊
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}She can get the fuck out of here.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}她应该滚出这个地方了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}But she shouldn't go without a fuck.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}但是绝不能让她轻易离开
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Definitely.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}必须的
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Nurten, could you schedule an appointment for next week, please?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}奴尔滕，你能安排下星期的预约吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Agah Beyoglu.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}阿加 贝尤鲁.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Thanks.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}谢谢
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Now...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}好了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}First thing we should do is to inform your family.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}首先我们应该通知您的家人
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}They have to know about this first.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}他们必须先知道这件事
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Your wife had passed away.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你老婆去世了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Yes.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}是
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}It's been 10 years.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}已经十年了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You have a daughter.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你有一个女儿
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Yes, but she's not here, she's living abroad.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}是的，但是她不在这里，她住在国外
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Doesn't matter, you should inform her.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}没关系，你应该通知她
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}She may even call me, I would like to talk to her.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}她甚至可以打电话给我，我想和她聊一下
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Are we clear?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}清楚吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Yes.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}是
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Bon appetit.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}祝你好胃口
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I was thinking if we should redo the test, in case the results are wrong.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我在想是否应该重做检测，以防结果不准确
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I knew a guy named Necmi.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我认识一个叫内奇米的人
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- They said he had cancer but then... - I know.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-他们说他得了癌症，但是后来......-我知道
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I know.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我知道
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}It's hard to accept.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}很难接受
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}But the results are clear.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}但是结果很清楚
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}So are the symptoms.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}症状也是如此
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}For me, there is no doubt in this diagnosis, Agah.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}诊断毫无疑问，阿加
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You have early stage Alzheimer's.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你有早期的老年痴呆症
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Yes, Dad?{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}爸爸
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Honey.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}宝贝
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Dad, I can't do it. I can't bear this anymore.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}爸爸，我做不下去，我再也受不了了。
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}What happened? I'll call the Chief Inspector
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}怎么了？我打电话给总检察长
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Dad, I'm not a kid. I don't want you to call anyone.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}爸爸，我不是孩子了，我不需要你打电话给任何人
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Then why did you call me?{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}那你为什么给我打电话
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Daughter?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}闺女？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Dau...{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}闺......
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}But doctor, I remember everything.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}但是医生，我记得所有事情
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}People forget things when they have Alzheimer's.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}人们患老年痴呆症时会忘记事情
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I worked at the courthouse for 27 years.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我在法院工作了27年
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}If I went there now I'd remember where every file is.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}如果我现在过去，我记得所有文件的位置
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You are in the early stages.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你还处于初期
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Ask me then, anything. My anniversary, friends' phone numbers...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}随便问我生日，朋友的电话号码等等……
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I know them by heart.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}这些我都记得很熟
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}My friends used to call me I was like a phone book.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我的朋友曾经说我就像电话簿
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Back then we couldn't save the numbers so I memorized them.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}当年我们无法保存电话号码，所以我就记在脑子里
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Agah.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}阿加
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You forgot to give water to your cat.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你忘记给猫喝水了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You forgot to feed him.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你忘了给它喂食
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}He starved to death.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}它饿死了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}How could I do that? How?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我怎么会这样？怎么回事？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Poor Munir.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}可怜的尼穆尔
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Look, this is an early diagnosis.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}听好，这是早期诊断
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}This will be of tremendous help for the treatment.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}对治疗有极大的帮助
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}We have patients that lived 20 years after the diagnosis.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我们有一些患者在确诊后已经生活了20年
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}So rest assured.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}所以请放心
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Lived 20 years but do they remember what they lived?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}活了20年，但他们还记得自己的生活吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Alzheimer's directly affects memory.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}老年痴呆症直接影响记忆
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}It's one of the main reasons for dementia.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}这是痴呆症的主要原因之一
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}But we will do all we can to stall this and to keep your mind alive.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}但是，我们将竭尽所能保持您的头脑活跃
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}But sooner or later, I will forget things, right?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}但是迟早我会忘记的，对吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Don't think about this now.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}现在先不要考虑这些
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}All my memories, experiences will be erased, they will go away.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我所有的记忆，经历将被抹去，并且消失
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}What will happen to me?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}然后我会怎样？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I mean...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我是说……
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Phone numbers aren't that important.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}电话号码没有多重要
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}But what will happen to my personality?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}但是我的人格将会怎样？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Wouldn't it be erased too?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}也会被抹掉吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I will forget what kind of man I am.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我会忘记我是什么样的人
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You are alive but you don't exist.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你还活着，但你并不存在
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}How can someone endure this?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}怎么会有人忍受得了呢？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You may put this in your pocket.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}您可以把它放在口袋里
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I'll check the sound, say something, please.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我来检查一下声音，请说点什么。
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}What should I say? Hi.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我应该说什么？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You can count the days of the week.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}您可以数一数每周有多少天
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Friday, Saturday, Sunday.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}星期五，星期六，星期天
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Monday.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}星期一
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Tuesday, Wednesday.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}星期二，星期三
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Thursday, Friday.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}星期四，星期五
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}That should do.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}可以了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Let's get started.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}让我们开始吧
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}I'll start with a basic question.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我从一个基本问题开始
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}How does it feel to be the only woman
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}作为唯一的女人感觉如何
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}working in an homicide bureau with 140 staff members?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}在拥有140名员工的凶杀科工作？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}How does it feel?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}感觉怎么样？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Of course it's amazing.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}当然很棒
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I feel very privileged.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我感到非常荣幸
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}First of all, all of us here are part of the homicide bureau.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}首先，我们所有人都是凶杀科的成员
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}It's impossible to see anything like gender discrimination
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}这里几乎没有任何性别歧视
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}or any other sexist approaches in this institution.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}或的其他任何性别歧视的方式
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Instead of any problems, my friends are supporting me so much.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}没有任何问题，我的朋友们都很支持我
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Which also means another responsibility for me.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}对我来说也是一种责任
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I am trying to do my best to be worthy of their support.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我正在尽我所能来得到他们的支持
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You studied public administration, right?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}您学习过公共管理，对吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Yes.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}是
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You even worked as a manager in private sector
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}您甚至在私营企业做过经理
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}but then you decided to enroll at the police academy.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}但后来您决定报名参加警察学院
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Yes.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}是
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Why did you decide to become a police officer?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}您为什么决定当警察？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I always thought about it because...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我一直都想做，因为……
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}The greatest man I know was a policeman... My father.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我的父亲是一名警察，他是我认识的最伟大的人
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Who is currently retired.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}现在退休了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You start to understand things as you grow.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}随着成长，我开始理解一些事情
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}We barely saw our father.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我们几乎看不到我们父亲
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Maybe at the weekends, just for a day.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}也许周末可以，但只有一天
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I used to resent him.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我曾经很讨厌他
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I used to tell him that he cares about other people more.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我曾经说他更关心别人
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}It seems that my father's job is to care about other people.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}看来我父亲的工作就是关心别人
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}And he ingrained this concept in me so much
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}他把这个概念深深地印在我的脑海里
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}that I don't know how to live any other way.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}以至于我不知道如何以其他方式生活
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I actually repeat this in every interview
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我在每次访谈时都会重复这句话
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}but being a police officer is not a job for me, never has been.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}但是当警察对我来说从来就不是一份工作
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}There is a concept called goodness.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}有一个概念叫做善良
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}For me, being a police officer means being a part of that goodness.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}对我来说，成为一名警察意味着成为善良的一部分
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}That's my purpose...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}那就是我的目标
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}To become a good person...{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}成为一个好人
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Deva!
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}德瓦!
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Deva, answer me! Where were you last night?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}德瓦，回答我！昨晚你在哪里？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Deva, answer me!
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}德瓦，回答我！
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Yes?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}喂？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Zuhal, hello my dear.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Zuhal，你好亲爱的
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Wait a minute.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}等一下
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Tell me where were you last night.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}告诉我昨晚你在哪里
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Look at me!
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}看着我！
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Where are you going?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你要去哪里？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Come with me then.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}那你跟我来啊
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}You're not going!{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你不可以去！
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Deva, I'll fuck you up!{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}德瓦，我要揍死你!
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Deva!
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}德瓦!
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Yes?{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}喂？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}My dear, is this a bad time? Did I wake you up? What time is it there?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}亲爱的，这个时间不方便吗？我吵醒你了吗？现在几点了？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}No, we are awake. It's morning here. Is something wrong?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}不，我们都醒着，这边是早上，出什么事情了？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Do I need a reason to call my daughter?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我给我的女儿打电话还需要理由吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I don't remember the last time you called.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我都不记得你上一次来电话了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I'm the one who always calls.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}一直都是我给你打电话
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}How is Deva?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}德瓦怎么样？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Deva is making me crazy!
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}德瓦快把我逼疯了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Deva doesn't listen to me, we can't even talk...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}德瓦不听我的话，我们甚至不能沟通……
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Dad, did you take the vitamins I sent you?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}爸爸，你吃了我寄给你的维生素吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I did, thank you.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}吃了，谢谢
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}But don't take them in high doses, they may cause diabetes.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}但是不可以吃太多，可能会导致糖尿病
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}You take one.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}记一下
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}And keep taking for three months...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}持续服用三个月
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Take them for three months then stop taking for a month.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}服用三个月，然后停用一个月
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Then you take them for another three months. Don't ignore it.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}然后你再服用三个月，别忘了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You didn't listen either.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你也不听话
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}What?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}什么？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You didn't listen to us when you were young either.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你小时候也不听我们的
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Is that so?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}是吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}How would you know?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你怎么知道的？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}How would you know? Deva is 16 years old.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你怎么知道的？德瓦今年16岁
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}When I was 16, it was my fifth year on boarding school.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我16岁那年是我在寄宿学校的第5年
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Remember that you sent me away?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}还记得你把我送走了吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Were you with me?{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你和我在一起吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Was my mother there?{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}妈妈和我在一起吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}How would you know if I had listened someone or not?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你怎么知道我听话不听话？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Did you know what I was doing?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你知道我在做什么吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Do you know what I'm doing right now? No!
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你知道我现在在做什么吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}What can I do, my dear. You ran away to the other side of the world, to Australia.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我能怎么办，亲爱的，你逃到了世界的另一端，去了澳大利亚
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Dad, I'm getting a divorce.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}爸，我要离婚了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Do you have any idea about this?{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你有什么想说的吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Dad, I'm sorry.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}爸，对不起
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I didn't mean to. I am very upset.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我不是故意的，我很难过
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I'm sorry, please forgive me.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}对不起，请原谅我
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Were you going to say something? Were you...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你刚才要说什么？刚才……
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I propose a toast for Nevra.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我提议为内芙拉干杯
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Different interviews, every week.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}每周都有不同的采访
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Finally, one of us is famous.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我们之中总算出了个名人
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Don't be silly, I'm not famous.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}别傻了，我可不是什么名人
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Oh, wait, what was it?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}等等，这是什么？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}To Nevra...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}敬内芙拉……
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Who reassures friends and awes foes.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}让朋友安心，让敌人敬畏
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}To Nevra the po-po!
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}敬内芙拉宝宝！
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- What do you mean by po-po? - She said po-po.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-你说啥？-她说宝宝
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}They say that in the movies all the time. I've always wanted to say po-po.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}总是在电影里看到，我一直想说
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Nice, are you finished? May I drink now?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}很好，你们说完了吗，我可以现在喝吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}All jokes aside, Nevra, why did you become a police officer?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}撇开玩笑不提，内芙拉，你为什么去当警察？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}What do you mean 'why'?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你是什​​么意思？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}It's a simple question.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}这是一个简单的问题
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Why did you become a fascist?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你为什么成为法西斯主义者？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}What are you saying? Are you a troll?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你在说什么？中二了吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Are you drunk?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你醉了吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Hang on, I am curious.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}等一下，我很好奇
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}We meet very rarely and you say these things.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我们很少聚在一起，你别这样说话
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You are actually asking me this...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你其实是在问我
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Why didn't I get into an insurance company?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}为什么我没有进入保险公司？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Why I am not in the ministry of finance?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}为什么我没有去财政部？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Why I am not a banker?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}为什么我没有做银行家？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Why I didn't act like a revolutionist in college and then marry a rich guy
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}为什么我不像大学里的革命主义者那样，然后嫁给有钱人
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}and sit on my ass all day without working, like you?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}像你一样没事做混日子？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Here is my answer...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}这是我的答案
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I didn't want to.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我不想这样
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I wanted to do...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我想做
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I wanted to do something...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我想做点事
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Something real.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}真实的东西
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}What is that?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}做什么？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}It's a simple question.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}这是一个简单的问题
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Why did you become a fascist?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你为什么成为法西斯主义者？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I'm just kidding.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我只是在开玩笑
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}She's offended.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}她生气了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}She was like that in college too.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}她上学时也是这样
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Come on.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}来吧
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}To reuniting after all these years.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}敬这么多年后的重聚。
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}To this beautiful night.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}敬这个美丽的夜晚
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Mumtaz!
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}蒙塔兹!
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Agah, I'm here...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}阿加，我在这里
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- Come, Agah. Come here. - Excuse me.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-这边，阿加-借过
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}That's why I don't come here.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}那就是为什么我不来这里
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}The crowd, the drunks, the noise...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}人群，醉汉，喧闹声……
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Bums in my apartment are enough for me
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我公寓里的流浪汉就够多了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}and you brought me here.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你还带我来这里
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You are used to this Agah.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你已经习惯了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I'm not. I couldn't get used to them.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}没有，我还是不习惯
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}How long have you lived here?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}您在这里住了多久了？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}If you don't want to live here, sell your apartments
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}如果您不想住在这里，就卖掉您的公寓
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}and move away.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}离开这里
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I won't go!
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我才不走！
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}My last name is Beyoglu, they'll go.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我是姓贝尤鲁的，要走也是他们走
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- You will. - I won't.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-你会的-我不
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- You will brother! - I won't go away.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-你会走的！-我才不走
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I won't.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}绝不
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}It's been so long since I saw you, Agah.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}很久没见到你了，阿加
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}If I hadn't called you, we were never going to meet.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}如果我没有给你打电话，我们可能永远都不会见面
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}What's wrong man? Is there someone in your life?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}怎么了，你的生活中是否有你爱的人？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Are you dating someone? Are you ignoring us?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你在和谁约会吗？还是在忽略我们？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I'm not ignoring, I just don't have time.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我没有忽略，我只是没有时间
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Fuck off. In our age, time is all we have.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}滚蛋，我们都这把年纪了，有的是时间
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You are a joke.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你真是可笑
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Don't become introverted.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}别这么内向
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I can come and take you to Bosphorus in mornings.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我早上可以带你去博斯普鲁斯海峡
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Come here.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}过来
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- Yes, sir. - Taste this.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-是的，先生 -尝尝这个
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- Does it taste bad? - Just taste it.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-味道不好吗 -尝一尝
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I can tell the cook to prepare another for you.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我可以告诉厨师为您准备另一个
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Why?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}为什么？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You didn't like it.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你不喜欢
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I didn't say that. I said 'taste this'.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我没要你另外准备，我是说让你尝一尝
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Why are you bothering him?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你为什么要打扰他？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}He's offering a new one.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}他另外准备新的给你
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}That's not the point. People don't listen to each other.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}那不是重点，人们不互相倾听
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Maybe it tastes good and I don't get it.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}也许味道不错，我不明白
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Just go back to work. Come on.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}回去上班吧，去吧
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- Go. - No!
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-走吧 -不用
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You surprised me.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你真让我吃惊
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Our peaceful, sweet Agah
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我们平静，温柔的阿加
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}scolding the waiter. I can't believe it.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}骂了服务员，我真不敢相信
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}That's not the point.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}那不是重点
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}People don't listen to each other properly.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}人们不能很好地互相倾听
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Automatic answers without waiting.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}自动应答，无需等待
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Everything is automated now, and they say we can't get along.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}现在一切都自动化了，他们竟然说我们无法相处
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Don't get mad, okay.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}别生气了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Let's eat and go, we'll go somewhere else.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我们吃完就走吧，我们去别的地方
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I shouldn't come, it's late.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我不该来，太晚了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}That's the automatic answer. It's not late, it's 8:30 pm.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}那是自动答案，一点都不晚，现在是晚上8:30
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Muazzez also asked to see you.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}穆阿兹还想见你呢
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}She told me to bring you with me.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}她叫我带你过去
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Our friends organized an event that we should...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我们的朋友组织了一个活动，我们应该
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Where did that event come out from?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}那件事是从哪里来的？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}For god's sake! We're going.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}看在上帝的份上！我们要去
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}That's it. My prostate destroyed me.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}就是这样，我的前列腺毁了我
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Destroyed me, made me miserable.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}毁了我，使我痛苦
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}What am I doing here?{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}带我来这里干嘛？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Just hang on, I'll introduce you to someone.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}等等，我给你介绍一个人
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}So is that why you brought me here?{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}这就是你把我带到这里的原因？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Did you set a trap for me?{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}这是个什么陷阱吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}That's Nukhet. And this is my friend I told you about, Agah.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}那是努赫特，这是我曾跟你提过的朋友，阿加
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Nukhet.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}努赫特
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Hi, nice to meet you.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你好，很高兴见到你
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Hello.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你好
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Nukhet has been taking tango lessons{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}努赫特一直在上探戈课
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}and I told her that there is a tango master here.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我告诉她你是一位探戈大师
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Come on...{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}得了吧
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You wouldn't mind teaching Nukhet a thing or two, right?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}您不会介意指点努赫特跳舞吧？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}It would be my pleasure.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}这是我的荣幸
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}So... They're doing a great job, aren't they?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}所以他们做得很好，不是吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Yeah but, what's with us?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}是的，但是跟我们有什么关系吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You are confused again, why don't you drink something?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你又一头雾水，为什么不去喝点什么呢？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}No, I don't want to. I don't want to be like them.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}不，我不想像他们一样
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}They will be drunk soon.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}他们很快就会喝醉了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}They will embarrass themselves.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}他们会让自己难堪
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}And they will regret everything when they wake up.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}当他们醒来时会后悔的
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Why would they regret?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}他们为什么会后悔？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}They'll just get drunk.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}他们喝醉了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}They won't remember anything in the morning.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}不会记住任何事情
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}How nice.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}多好
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Since I won't remember
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}既然我不记得了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I can do anything I want, is that so?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我可以做任何我想做的事，是吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Exactly.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}正是
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}How nice.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}多好
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}I won't remember, so I can do anything.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我不记得了，所以我可以做任何事情
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Won't they wake up in the morning?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}他们不会在早上醒来吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You're obsessed with this again, Agah.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你又在纠结这个了，阿加
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Mumtaz!
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}蒙塔兹
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Eat one's heart out...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}伤心欲绝
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Interesting sentence.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}有趣的句子
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}That's conscience.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}那是良心
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}It can eat your heart out, literally.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}从字面上看，它可以吞噬您的心
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Forgetting forever.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}永远忘记
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Forgetting that you are forgetting.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}忘记你正在忘记
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Yes, that's it.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}对，就是那样
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I will forget everything.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我会忘记一切
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I won't remember anything.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我什么都不记得了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}To Agah.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}致阿加
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I'm not forgetting.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我不会忘记
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}One more please.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}再来一杯
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Agah!
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}阿加!
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Are you leaving?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你要走了吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I had an emergency.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我有点急事
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You can call me whenever you want.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你随时可以打电话给我
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I am very glad to meet you.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}很高兴认识你
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}So am I.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我也是
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Have a good night.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}祝你有一个美好的夜晚
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}ARDICHAN COURTHOUSE PROPERTY AND EVIDENCE UNIT
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}阿迪坎法院物证部门
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}There was no rape.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}没有强奸
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I accept the murder but there was no rape.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我接受谋杀，但没有强奸
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}INTERROGATION CAMERA
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}审讯相机
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}She is not the only fish in the sea.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}她不是海中唯一的鱼
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- All the girls love me. - Is that so?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-女孩们都喜欢我 -是吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- They melt with my one look. - Really?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-他们融化于我的一个眼神 -真的吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}For example, that woman.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}例如那个女人
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Which woman?{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}哪个女人
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}That police woman.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}那个女警察
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- She was running after me... - Is that so?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-她在追我-是吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Told me to stop.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}告诉我停下来
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}She pulled her gun and I stopped.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}她拔枪我停了下来
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Then I turned and looked at her.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}然后我转身看着她
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- Do you know what happened? - What?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-你知道发生了什么吗？-什么？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- She looked like she literally melted. - Really?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-她看起来好像真的融化了-真的吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}So, guys...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}伙计们
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}TOLGA YAZGAN CHIEF INSPECTOR
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}托尔加·亚兹甘首席检验员
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}This incident stays in this room.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}这件事到此为止
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- Is that clear? - It is clear, Chief.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-清楚吗？-清楚，长官
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Firuz?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}菲鲁兹?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}What?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}什么？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Yeah, it is Chief.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}是的，长官
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Guys...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}伙计们
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Do you think I don't know about your messing with Nevra?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你们以为我不知道你们招惹内芙拉的事吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}No one will mess with Nevra from now on!
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}从现在起，不准任何人惹内芙拉
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Is that clear?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}明白了吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}And you will be working on documentation in administration.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你将调到行政部门做文书工作
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}No more field duties.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}不再执行外勤任务
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Guys, we are done. Why are you still here?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}还愣着干什么？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Go.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}走
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}CERTIFICATE
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}证书
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}"Not Responsible" by Tom Jones.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}汤姆·琼斯的“不负责任”
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}CRIMINAL RECORDS
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}犯罪记录
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Your daughter hasn't called yet.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你女儿还没打电话给我
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}She's very busy, but I told her.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}她很忙，但我已经告诉她了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}What did she say?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}她说了什么？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- She'll come here soon. - Nice.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-她很快就会来的-不错
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Are you taking your medicines?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}吃药了吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- Yes. - Nice.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- 是好
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Okay.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}好的
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Recently...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}最近
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Last week...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}上个星期
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Have you gotten angry for no reason?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你无缘无故生气了吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Something like a tantrum.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}发脾气之类的
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- Not really. - Nice.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-没有-不错
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I'm asking this because this tantrum may occur any time.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我问这个是因为您随时都可能发脾气
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You may feel insecure.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}您可能会感到不安全
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You may be sensitive about something that you haven't cared about before.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}您可能对以前没有在意过的事情很敏感
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}These things may happen.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}这些事情都有可能发生
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}If something like this happens, take a note.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}如果发生了类似的情况，记下来
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Have you started doing your homework?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}您开始做功课了吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Have you started taking notes?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}您开始记笔记了吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}MY NAMES IS AGAH BEYOGLU. I THREW MY TV INTO THE STREET.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我的名字叫阿加 贝尤鲁I，我把我的电视机扔到街上
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- I'm taking notes, yes. - Very good.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-我有做笔记-非常好
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Okay, what about physical activities?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}好，体育锻炼呢？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You were going to walk.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你要多走路
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You should make an effort, I said simple sports may also do.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你应该努力，做简单的运动也可以
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Yes, I am doing those things.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}是的，我在做这些事
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- I'm very active nowadays. - Very good.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-我现在很活跃-非常好
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Okay, let's talk about mental activities.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}好吧，让我们谈谈心理活动
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}We should activate your brain neurons that have never worked until now.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我们应该激活那些从未起作用的大脑神经元
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}How will we do that?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}要怎么做？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}For example...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}例如
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}One of my patients was familiar with Latin languages.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我的一位患者熟悉拉丁语言
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}And she started learning Japanese.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}她开始学习日语
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}And she benefited a lot from it.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}她从中受益匪浅
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You want me to learn Japanese?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你要我学日语吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}No.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}没有
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Everyone has a different interest.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}每个人都有不同的兴趣
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}There must be something that you always wanted to do but you couldn't.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}一定有您一直想做但做不到的事情
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}There are many things I want to do.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}有很多我想做的事
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}That's it, very good.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}就是这样，很好
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Look, whatever it is, however it is done...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}不管是什么事，要如何做
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You will start doing it with utmost planning.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}开始做计划吧
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Look, planning is the key word here.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}计划是这里的关键词
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You should have daily, weekly, monthly plans.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}您应该有每日，每周，每月的计划
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You should check if you are following those plans accordingly.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}并且应该检查是否按照计划执行
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You won't cut corners.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}不要走任何捷径
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You'll make it complicated.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}让这件事变得复杂
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You'll detail it.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}做好细节
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Let's assume that you'll water a plant.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}假设您要给植物浇水
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You'll spray every leaf of that plant
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}要把植物的每一片叶子都喷水
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}one by one, patiently.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}一片接一片，耐心地做
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You should enjoy what you're doing.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你会很享受你正在做的事情
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Agah, you'll do that in such an impeccable way
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}阿加，这样你会做到完美
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}that the plant won't be able to tell if it's raining or you're watering it.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}这颗植物根本无法判断是在下雨还是在浇水
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Are we clear?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}明白吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- We are clear. - Nice.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-我很清楚 -很好
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Very nice.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}非常好
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Okay, now tell me...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}好，跟我说说
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}How have you been feeling lately?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}您最近感觉如何？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I've never felt so good.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}从来没有这么好过
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}SECURITY CLEARANCE
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}安全检查
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}IDENTIFICATION CARD COPY
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}身份证副本
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Damn it.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}谁啊？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- What? - You are a mechanic, so you should know.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-什么事？-你是修理工，所以你应该知道
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Why are mechanics always late?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}为什么修理工总是迟到？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}What?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}什么？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Our elevator mechanic for instance, we waited for so long but he didn't come.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}例如我们的电梯技工，我们等了很久，但他没来
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Then he came, but he was late.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}然后他来了，但是他来晚了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Who are you, what are you saying?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你是谁，你在说什么？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Are we going to wait for mechanics our whole lives?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我们要一辈子等修理工吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- Go away, it's so late... - No, I was going to say that...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-走开，这么晚了你到底要干嘛？-不，我要说的是
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You... Hey, what are you doing? Why are you going in?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你……你进来干什么？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Just a sec...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}很快就好
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You are going to write these down on computer.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}把这些录入系统
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Good morning to you too.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你也早上好
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}TO THE MINISTRY OF INTERIOR AFFAIRS
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}内政部
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Come in!{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}进来吧！
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}What's this?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}这是什么？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}My resignation, sir.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}长官，这是我的辞职报告
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Really, I didn't get it...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我不明白
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I can see that. I am asking why.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我知道是辞职信，我问你为什么
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I have to do that...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我必须辞职
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}It's because of personal reasons. You'll put it in process.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}因为个人原因，请您批准
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I haven't had my coffee yet. I'm not awake yet.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我还没喝咖啡，还不清醒
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Do you know what I'll do?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你知道我会做什么吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I'll take your resignation
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我把你的辞职报告
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}and put it in my drawer.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}放在我的抽屉里
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}And I'll give you five days off.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}给你五天假期
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Go home, get some rest, think this through
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}回家休息一下，想一想
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}and if you still want to resign after five days, I'll accept it.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}如果五天后你仍然想辞职，我会接受的
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I'll put your paper in process. Okay?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}到时候我会批准，好吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- But, Chief... - Nevra!
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-但是，长官 -内芙拉！
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Did you know that it was me who wanted you here at the bureau?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你知道是我想让你进警察局的吗
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I chose you from 50 girls.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我从五十个女孩中选了你
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}It wasn't because your father was a cop.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}不是因为你父亲是警察
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Do you know why?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你知道为什么吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Because among those 50, it was only you determined to be
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}因为在那50个人中，虽然你的工作前景光明
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}a cop although you had a bright future in your job.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}但只有你有决心做警察
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I told myself that she was crazy and I needed someone crazy here.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我告诉自己她疯了，我恰好需要一个疯子在这里
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Go home and think.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}回家好好想一想
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Yes?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你好？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Turn it down!
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}声音小一点！
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}She's driving me crazy.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}她快把我逼疯了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}She got crazy now she's making me crazy.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}她疯了，现在要让我疯了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}How can I help you?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}有什么事吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I'm Agah, Agah Beyoglu, from the courthouse.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我是阿加，阿加 贝尤鲁，来自法院
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- From the secretary. - Yes.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-您是秘书处的 -是的
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}It has been years...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}已经好几年了……
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I was thinking that you somehow look familiar.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我就觉得你看着很眼熟
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I never forget a face that I saw.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我永远不会忘记我看到的每一张脸
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- Welcome. - Thank you.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-欢迎 -谢谢
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- Come, come in. - Thank you.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-进来 -谢谢
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}We were just having dinner.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我们正在吃晚餐
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- Are you hungry? I can prepare for... - No, thank you.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-饿了吗？我可以准备…… -不，谢谢
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I'm sorry, it's a bit messy.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}对不起，有点乱
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}There was a girl cleaning the house but she ran away because of her.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}有一个女孩负责打扫房子，但是她把人家吓跑了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Everyone runs away.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}每个人都被吓跑了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Who would tolerate this?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}谁能忍受这个？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Why don't you take your coat off?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你为什么不脱掉外套呢？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}No thanks, I caught a cold.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}不用了，我感冒了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- Get well soon. - Thanks.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-祝你快点好起来-谢谢
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}It's been 20 years, right?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}已经20年了，对吧？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I guess so.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}大概吧
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Do you remember Agah?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你还记得阿加吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}When I was working on archives.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}当我做档案工作的时候
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Celal from assize court recommended Agah, God bless him.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}巡回法庭的塞拉尔推荐阿加，上帝保佑他
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- He died too... - Really, may he rest in peace.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-他也死了 -愿他安息
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}He went there every weekend.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}他每个周末去那里
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- Was it Kambura? - Yes, it was Kambura.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-是坎布拉吗？-是的，是坎布拉
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Agah was working at the secretariat at Kambura Courthouse.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}阿加在坎布拉法院秘书处工作
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}You opened many files for me right?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}您帮我查了很多文件，对吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}We went there with you once.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我们曾经一起去过那里
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}We ate trout near the river, remember?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我们在河边吃鳟鱼，记得吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- She's been like this for four years. - What's wrong with her?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-她已经这样四年了-她怎么了？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}It's bad, Agah, bad.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}不好，阿加，很不好
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}She has Alzheimer's.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}她患有老年痴呆症
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Get well soon.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}祝她快点好起来……
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}She won't get well.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}她会好起来了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Look at her. She wasn't someone to be like this.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}她不是这样的人
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}She's ruined.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}她毁了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}She ruined us too.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}她也毁了我们
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Our daughter is living in Madrid.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我们的女儿住在马德里
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}We went to visit her.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我们去拜访她
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}We watched a flamenco show there.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我们在那里看了弗拉门戈表演
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}All these things are from there.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}所有这些东西都来自那里
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}How do they say...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}怎么说呢……
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Feza's only connection to life is these.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}费扎与生活的唯一联系就是这些
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I don't know why, her memory only kept these.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我不知道为什么，她的记忆只保留了这些
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Otherwise she neither knows me nor our girl.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}否则她既不认识我也不认识我们的女儿
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Come on.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}来吧
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I take care of everything.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我要负责所有事情
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I even clean her bottom.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我甚至要帮她擦屁股
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Like I can take care after myself.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}就像我可以照顾自己似的
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}So, Agah.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}对了，阿加
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- Are you retired? - Yes.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-你退休了吗？-是的
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}What was your wife's name?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你老婆叫什么名字？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Mebrure.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}梅布鲁雷.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}She passed away too.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}她也去世了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}May she rest in peace.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}愿她安息
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Thank you.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}谢谢
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}So Agah, why did you come here?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}阿加，你来这里有什么事情吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}How did you find this place?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}怎么找到这个地方的？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}We thought weather is better on this side.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我们认为这边的天气更好
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}It's also far away from the crowds.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}离人群也很远
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}May I use the bathroom if you don't mind?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}如果您不介意，我可以用一下洗手间吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I've come a long way.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我走了很长一段路
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Yes, sure.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}没问题
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I have the same problem.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我也是这样
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}My bladder and all are sagged...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我的膀胱都凹陷了……
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Look, it's over there.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}在那边
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Come on, drink.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}喝一口吧
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Drink it woman!
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}把它喝掉！
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- Drink it, come on! - Excuse me.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-喝吧，来吧！-对不起
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Do you have farsighted glasses?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你有远视眼镜吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Yes, over there.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}有，在那边
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}- It's on the shelf. - Thanks, I forgot mine.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}-在架子上-谢谢，我忘了我的
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I'm running out of patience, just take one sip!
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我已经忍无可忍了，只喝一口！
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Come on, at least take one sip.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}来吧，至少喝一小口
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}So Agah, what are you doing around here?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}阿加，你在这附近做什么？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I had work to do.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我有工作要做
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}If there is something we can do, just say it. Don't be shy.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}如果有什么我们能帮忙的尽管说
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Yes, of course. I will.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}是的，当然了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I was nine years old.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我九岁的时候
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}The year was 1961.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}那年是1961年
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}My mom had baked a cake for my birthday.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我妈妈为我的生日烤了一块蛋糕
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}That was the first time.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}那是第一次
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I made a wish blowing out candles.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我许愿吹蜡烛
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}My wish was this...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我的愿望是这样的
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Back then
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}那时候
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Yuri Gagarin was going to be the first man going to space.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}尤里·加加林将成为第一个进入太空的人
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}And I wished he would take me with him.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我希望他能带我走
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I believed so much that my wish will come true
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我非常相信我的愿望会成真，
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I prepared a bag and started waiting.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我准备了一个包，开始等待
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I thought they will come from The Soviet Embassy to get me.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我以为他们会从苏联大使馆来接我
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}But I was hearing that they were communists.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}但是我听说他们是共产党员
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}People were saying "Careful, they are communists."
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}人们都说“小心，他们是共产党员”
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I said then I'll be one too.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我说那我也做共产党员
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}During that time
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}那时候
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}college students were staying on the first floor.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}大学生住在一楼
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}My mom was calling them communists too
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我妈妈也叫他们共产党员
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}and I knew they had hidden books in our cellar.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我知道他们在我家的地窖里藏了书
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I went there and stole one.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我去那里偷了一本
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Poems of Nazim Hikmet.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}纳齐姆·希克梅特的诗歌集
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I found the shortest one and memorized it.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我记住了其中最短的一个
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I thought if the Russians came, I'd read this poem to them
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我以为如果俄国人来了，我给他们读这首诗
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}and they'd think I was one of them and take me.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}他们就会认为我是他们的一员然后带我走
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Chief?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}长官？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Anyways...
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}总之……
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}The date was April 12th.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}那天是4月12日
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}The space shuttle was going to be launched.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}航天飞机就要发射了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Vostok-1.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}东方1号
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}But no one had come for me.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}但没人来找我
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I thought they forgot about me.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我以为他们把我忘记了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}The shuttle was launched.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}航天飞机发射了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Everyone was praying for the shuttle to go through the atmosphere.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}每个人都在祈祷航天飞机穿过大气层
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Only I was praying for it to return half way around to take me.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}只有我在祈祷它能半途而来带我
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}And maybe the Americans
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}也许美国人
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}were praying for Vostok to not go into the space.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}在祈祷沃斯托克不要进入太空。
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Whatever.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}随便了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}All day long
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}那一整天
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}near the radio
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}在收音机旁边
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I read that poem silently.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我默默地读那首诗
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}My head is a foamy cloud.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我的头是泡沫状的云
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}My inside and outside is a sea.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我的内外都是大海
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I'm a walnut tree in Gulhane Park.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我是古尔哈内公园的一棵核桃树
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}An old walnut tree. With long branches and pieces.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}一棵老核桃树，长着树枝和碎片
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Neither you are aware of this nor is the police.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你和警察都不知道这件事
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I MET A GIRL YESTERDAY. HER NAME WAS NEVRA ELMAS.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我昨天遇到一个女孩。她的名字叫内芙拉·埃尔马斯
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Whenever I read this poem I feel like I go to space.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}每当我读这首诗时，我都会觉得自己去了太空
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I am 65 years old now.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我今年65岁了
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}I made a wish again, just like a child.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我像个孩子一样再次许愿
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}An impossible wish, of course.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}当然是不可能实现的愿望
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}Do you know what I wished for?
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}你知道我想要什么吗？
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}To become a good person.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我想做个好人
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Dad, I guess you are sleeping.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}爸，我猜你在睡觉
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}It's over, I can't tolerate this man no more. We are moving back to Istanbul.
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}结束了，我不能再容忍这个人了，我们要搬回伊斯坦布尔
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}We are coming together with Deva.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我和德瓦一起回去
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}I'll call you later.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}我会再联系你
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)\i1}Good night.{\i}
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}晚安
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}FIRST FEMALE POLICE OFFICER OF HOMICIDE BUREAU
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}凶杀局的第一位女警官
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}HER ONLY GOAL IS TO BE A GOOD POLICEMAN AND A GOOD PERSON
-{\fad(200,200)}{\fad(200,200)}{\fad(200,200)}她唯一的目标是成为一个好警察和一个好人
+牢记
+内芙拉，梳理一下案情
+穆罕默德尤特吉尔，纳伊姆汉图雷迪
+最后一位受害者的名字是萨利赫古登
+除去图凡之外三名受害者中有两人来自坎布拉
+你在坎布拉住过很长一段时间
+所以这一切都与坎布拉有关
+我是纳齐夫！纳齐夫？
+你知道阿加贝尤鲁吗？
+你可以为这样的社会变态者做的最大的帮助就是谈论他
+你一直在追逐的那个人没看到他的脸吗？
+有人向房子扔了火把
+把房子烧了
+你说的太多了
+你可能会发生什么事
+那是兔子吗？
+不，是猫
+阿加，你累吗？不，不，我没事
+我知道这是很长一段路，但是这些植物只在早晨发芽
+你差点错过，我就要走了
+看到你真是令人惊讶
+你一点都没变看起来很棒
+你也没变塞菲除了变老
+阿加，当我到你这么老的时候，我希望我
+看那边！
+在那里
+看到这个蘑菇吗？
+这是一个毒蘑菇
+一口就死了
+这是有毒的
+阿加，这是什么？你在做什么？
+塞菲，乌穆特在哪里？
+小肠属于那里
+是的，那里
+乌穆特在哪里？
+大肠大肠
+大肠属于那里
+乌穆特在哪里？去尼玛！
+你听说过占星术吗？
+那是个荒谬的行为
+乌穆特在哪里？
+你不能从某人的出生日期就看出他的个性
+更不用说他们的未来
+用出生日期开占卜？真不可思议
+你知道什么可以吗？
+出生地
+出生地决定了你的个性和未来
+占星术应该考虑出生地
+考虑到出生地的预测会更合理
+最终，在的黎波里出生的孩子
+白沙瓦或安哥拉
+将过着几乎相同的生活
+然后是多伦多，奥斯陆，东京
+那些孩子也是一样
+我们的农村人民非常了解这一事实
+这就是为什么
+这个在那里
+人们从来没有问过他们第一次见面的人
+问他们来自哪里
+我不会再问了，你说不说？
+说不说？
+等等
+对着这个说
+说吧，明白吗？
+对着它说
+应该有个上升星座
+那对应你的公民身份
+你出生在哪个国家
+这也很重要
+在叙利亚出生的叙利亚男孩的命运
+和一个在叙利亚出生的法国男孩不尽相同
+我的星座是阿勒普我的上升星座是法国
+这改变了一切
+或者
+我的星座是刚果我的上升星座是比利时
+这也改变了一切
+我的星座是坎布拉
+命运也是一样
+不管我做什么，我全都归功于在坎布拉出生
+去吧
+去找你的朋友吧
+现在有人在外面
+杀了我兄弟
+他在坎布拉枪杀了我的人
+我们讲话时他在外面
+而你却站在这里
+你要找到他，但不要逮捕他，菲鲁兹
+他不会接受审判
+你把那个疯子交给我，菲鲁兹
+我会审判他的
+我会为他做出判决
+现在不方便吗，塞米尔？什么事，祖哈尔
+在半小时后你有一个
+与中东代表的会议
+我们应该回到办公室
+祖哈尔，你的星座是什么？
+摩羯座
+但是我真的不相信星座
+看吗？她也不相信
+回去工作，随时向我汇报
+你的星座是什么？
+龙
+托尔加，不久再来看我们吧
+我会的谢谢你的招待
+再见
+我妈妈在说谎
+她看起来不像在说谎
+但是她丈夫显然有一些问题
+真的只是做梦吗？
+有可能
+长官
+你应该知道我和我妈妈关系不是很好
+事实上，有时候我甚至怀疑自己是否认识她
+但是相信我，我能看出她什么时候在说谎
+我们要做的是我需要回到局
+让我在当地分局下车我去那儿弄辆车回来
+打电话给塞法让他过来
+问问当地人，看看是否有人记得大火
+清楚吗？是的长官
+内芙拉
+如果你今天找不出任何有关火灾的线索，
+就不要再找了，好吗？
+我们都没有时间可以浪费了，明白吗？
+是长官
+好，送我过去，你等着塞法，正好休息一下
+不用了你不是也没睡觉
+我上次睡好觉是在去年
+走吧，送我过去
+先说对不起
+苏薇达
+我说了一些
+关于你的谣言
+告诉她你到底说了什么
+我告诉别人你是妓女
+对不起
+可以了吗？
+告诉她为什么
+我可以告诉她
+因为他问你一个问题
+他想做你的男朋友
+但是你甚至都没有给他回复
+那让阿夫辛发疯了
+因为他太笨，他没有意识到你已经不屑跟他说话了
+给我
+我没带在身上那在哪里？
+跟我来
+塞利姆，上车我马上就来
+你要去哪里？我马上就来
+出去兜风吗？
+你在这里做什么？什么都没做只是站在这里
+哦，
+乌拉尔，你会知道该怎么办
+我有枪
+一把很古老的枪
+我拿到哪里可以修呢
+你带枪干嘛？
+我不知道就是带了你用枪做什么呢？
+我想赶走苍蝇
+苍蝇为什么要从枪下逃走
+你这样做
+内斯林
+用枪指着和开枪是两码事
+我这辈子只拿枪指过别人一次
+那人是我的前夫
+然后我扣动扳机
+但这枪真的很旧反正不能用
+我可以给你看看到了吗
+能用
+真可惜，我打中了你的轮胎
+打中轮胎要比打中你们中的一个更好，对吧？
+那好吧
+顺便说一下乌福克
+叫你妈妈到我家喝茶别忘了告诉她
+内斯林，你做了什么？
+你不知道有多危险吗？
+另外，你从哪儿拿到那把枪？
+我去
+跟皮条客桑古尔谈了谈
+我买来的，怎样？
+你要我就这样看着他们威胁我的丈夫吗？
+问题是
+塞利姆，你在哪里找到那块石头？
+天很黑你找了很久吗
+还是你自己抢来的？
+那是怎么回事？
+如果你真的做了
+那你比他们更危险
+靠边
+仍然没有人拜访我
+他们一定忘了我
+别傻了
+你的女儿每天都在打电话她永远不会忘记你
+航天飞机发射了
+航天飞机发射了，但仍然没有人来找我
+他们一定是忘了我
+航天飞机发射了
+来吧
+你不怕吗？看着
+看到血迹了吗？
+鱼缸也被打碎了
+苏薇达过来
+那不是穆罕默德尤尔吉尔吗？
+指着我
+就这样
+接下来你做什么？
+你觉得怎么样？
+不可能吧
+就在那里？
+别太兴奋我们没有录制
+该死
+给你，你可以稍后看其他内容
+在其他任何地方都找不到素材
+我们去了所有犯罪现场
+那你找到任何线索了吗？
+我是说凶手可能是谁
+那不是重点那什么是重点？
+苏薇达给他看看
+内芙拉的猫
+猫猫精神变态
+这是什么？
+欢迎来到土耳其首个合法的连环杀手粉丝俱乐部
+我们要先给杀手起个绰号，就像开膛手杰克
+我们想找到一个与贴纸有关的绰号
+我们最开始决定称他为贴纸男贴指男
+好啊
+本来想称他为作家，但我们觉得很蠢
+然后我想到了猫服装
+这就是最终我们想出来的
+你在做什么？别急
+狗杀手
+就是它了卧槽！
+真是个好名字！
+苏薇达一开始就不喜欢因为杀狗对她没有吸引力
+但我向她解释说，这与狗无关
+我们都爱狗，对吗？
+但不是重点这是另外一回事
+他是猫杀死狗的猫
+弱者胜过强者
+它违反了我们所知道的一切违背了自然法则
+我觉得很棒
+我知道了我们就快准备好了
+网站还有一些收尾的工作，然后我们就嫩上线了
+还缺什么？
+一个论坛的问题你希望狗杀手杀死谁
+人们会在论坛上分享他们希望死亡的对象
+以及为什么他们应该死
+他们甚至会投票给对方的受害者
+一个死亡清单即将出现
+像证券交易所一样，但针对潜在的谋杀受害者
+太棒了
+想象一下杀是杀手真的杀死了名单上的某个人
+为什么不呢？
+等一下我快完成了当然
+坐那边的椅子我站着就行
+你听说过杜鲁凯村吗？
+我在那儿的法院工作过一段时间
+有一天，上司告诉我们，我们必须去参加强制性研讨会
+一些美国人前来与该部达成协议
+他们是举行研讨会的人
+总之
+那时候我是法院书记员，这是最重要的工作
+你必须写下每一句话，
+永远不会漏掉任何一句
+我会洗干净然后马上回来什么？好的
+我们去了研讨会
+他们给我们发了这种
+口罩
+他们被称之为速记口罩
+人们对着它说话非常的隔音，没人听见你在说什么
+它连接着一个录音机，录下你所说的一切
+总之
+他们给了我一个，我开始使用它
+感觉很奇怪，说话时没有人听到你的声音
+令人印象深刻，我开始在梦中看到它
+比方说
+我在梦中拥挤的地方
+我会说话但没人能听到
+你知道几天前发生了什么吗？
+我在银行排队等候时，一位女职员过来提醒我
+她说我是在自言自语
+我吓坏了谁知道我跟她说了什么
+要喝茶吗不，谢谢
+事情的变化很有趣
+我曾经很害怕没有人会听到我说的话
+现在，我很害怕他们可能会听到
+我猜
+那就是人生
+你的车怎么了？
+我的车很好
+我就是那个有问题的人
+我做了什么？
+我忘了问他乌福克住的地方
+我现在应该怎么找到他？
+喂？
+喂？这鬼东西怎么接啊？
+喂？
+喂？
+怎么接啊？
+喂？乌福克？
+你曾经很擅长用这些东西，梅布鲁雷
+你很擅长接电话并和打电话的人交谈
+我让你教我怎么做，但是你一直拖着，现在你看我！
+你走了，留下我一个人在这里
+我现在该怎么办？我该找谁帮忙？
+我应该问他们如何接电话吗？
+他们不会嘲笑我吗？
+一个成年男人竟然不会接电话！
+看看你对我做了什么？我在这里自言自语！
+他什么也做不了，甚至连电话都不会接！
+如果你在这里我就不会自言自语了
+那是银行的女职员说的。我在自言自语
+是的，但是没人会听到我在说什么
+你听不到我在说什么
+你听不到
+没有人听！没有人听我说！
+没人！
+早上好早上好
+等了很久吗没有，我刚到
+带我去那房子
+乌福克在坎布拉等你吃饭
+你听到了
+你应该期望更大的目标
+就在今天早上，你说你想再看看坎布拉
+现在我们就在过去的路上
+是的
+当你要求我取消所有会议时，我很担心
+没事吧当然没事
+我想见一个老朋友
+我们应该吃点鱼那里的鱼与众不同
+再来些葡萄酒
+你喝酒吧？
+它真的不适合我
+一杯葡萄酒不会怎样的
+我之前看过很多令人难以置信的报道
+报道称一名男子从背后开枪自杀
+欢迎来到坎布拉这是一个好地方
+就像童话一样，你为什么不喜欢呢？
+这里有小红帽和大灰狼
+无论怎样都会有强制性的幸福结局
+这是童话，好吧，我们只需要找到一个讲故事的人
+塞利姆或撰写报告的人
+乌福克！
+乌福克，过来帮帮我！
+乌福克，我在叫你！
+让我抽完烟把烟掐了！
+你疯了吗！你在做什么！
+还有什么伤疤
+乌福克！乌福克！儿子，你要去哪里？
+十年来一直这样吗？为什么不把它拆了？
+我想他们已经习惯了，甚至都没有注意到它
+你不能拆毁你根本没有注意到的东西
+人们在大火中迷失了自我
+494149岁的塔亚尔凯马克和他41岁的妻子松古尔凯马克
+还有他们的五个孩子
+七个人都住在这间小房子里？
+我曾经读过一部小说
+书上说人越穷，占用的空间就越少。
+越穷，就越小
+这就是为什么富人需要更多的空间
+解释了他们问什么有巨大的别墅
+最小的孩子几岁？
+四个月大
+四个月大
+在这么小的房子里
+当你有一个四个月大的孩子时，你能睡着觉吗
+我不记得我四个月大时做了什么
+你会不停地哭
+那报告怎么这样写
+他们被推测在火灾中睡着了
+全都睡着了
+那怎么可能呢？七个人都睡着了
+我已经跟你说过
+报告就是这样写的
+塔亚尔凯马克有一些前科，对吧？
+是的两次入狱，两次都是入室盗窃
+入室盗窃
+如果你是小偷
+你会和另外六个人住在这个地方吗
+还在地里干活
+决不
+不过，如果我为自己的罪过忏悔，我可能会在田里干活。
+塔亚尔不是小偷
+在这个房子里死去的人中没有一个是小偷
+所以乌福克
+好的，乌福克
+你在哪里被烧伤的？
+我也时在这里被烧伤的
+我想救他们
+谁扔的火把？
+我扔的
+我当时正站在那儿
+一切突然爆发了我被吓了一跳
+我以为他们看到火焰后会离开屋子
+但没人出门火势越来越大
+我能听到里面的孩子在尖叫
+我能听到孩子们的尖叫声！
+我跑到门口，但门被锁住了
+我试图打破锁链，但我做不到
+我跑到另一个窗口，但也被封锁了
+我想也许
+我无法把任何人救出来！
+我向人群大喊！帮帮我！
+我们把锁链打开！来人帮帮我！
+没有人帮助！没有人打开铁链！
+没人来！没人帮助我！
+然后乌福克
+乌福克！
+乌福克什么
+谁把门锁住了？
+我问他们是谁锁的但他们告诉我没有锁链
+我应该是
+我在营救他们时被烧伤了
+落下的横梁击中了我的头
+乌福克，我们接下来这样做
+，我们要逮捕我！
+当然可以逮捕我！
+跟我来逮捕我！
+好的是我杀了那些孩子快逮捕我！
+好的请！
+让我们谈谈我的脸就是在这里被烧伤了！
+当然，跟我来逮捕我，请逮捕我！
+当然，我会的逮捕我！看到我的伤疤了吗？
+当然是我把房子烧毁了！
+我知道我杀了那些孩子
+好的请逮捕我
+看那所房子！我是烧毁它的人！
+我明白了还有孩子们！我把它全部烧掉了！
+他说了别管他了
+让他说吧
+你还没结婚吗没有
+当然
+你已经有老婆了吧？
+坎布拉是的
+你为什么给我打电话，塞米尔？
+你想从我这里得到什么？
+你用那把枪做什么？
+打轮胎
+我听说了
+我在伊斯坦布尔就听说了
+当然了
+内斯林，塞利姆会没事的
+没有人会伤害他
+我只是想问
+那是他想象中的悔恨想象中的
+正是
+他应该保密的
+悄悄的
+假设你成功让塞利姆闭嘴了
+你会对乌福克做什么？
+你怎么让那个可怜的男孩闭嘴？
+我为什么要把他闭嘴？
+在我们聊天的同时他正在说
+你可能会问他在跟谁说
+他在跟你那个美丽的女儿说话
+内芙拉没有意识到乌福克是个很麻烦的人
+多年来，他对他遇到的每个警察都承认纵火
+下次见到内芙拉时，你应该告诉她
+他是一个疯子他根本不知道自己在说什么。
+你难道不想知道到底发生了什么吗？
+关于什么？真相
+不想
+所以你根本不想知道
+我忠于我的妻子内斯林
+你知道什么是真正的忠诚吗？
+永不质疑
+换句话说，欺骗自己
+你有没有
+像这样爱过什么人，你永远都不会质疑任何事情？
+你有没有
+不论发生什么都会一直坚信某件事？
+当然没有，从没有过
+我猜
+你一定从未拥有过家庭，内斯林
+坎布拉警察署
+你没给我戴手铐
+你答应过要逮捕我你不知道他什么状态吗？
+让我们跟他谈
+谢谢你的帮助
+从最开始说起
+我已经说过了再说一次
+我需要说多少次？
+我以为你们是真正的警察是我把房子烧毁了！
+我杀了他们！还有什么要说的？
+看来你也不会抓我的
+我什么都没告诉你
+我将会继续告诉自己
+我很讨厌这样我很讨厌
+我自己可以做不需要你
+你以为你要去哪里？
+你以为你要去哪里？
+你只是站在那儿你甚至都没有把我戴上手铐！
+去尼玛的手铐！
+你！这边！过来！快！
+手铐给我！
+伸出双手，伸出双手！
+好了！现在你有手铐了！
+让我跟他单独谈谈
+你确定吗？
+如果你需要什么，我就在门口
+你就是那天晚上我追的那个人，对吗？
+乌福克，你为什么要我看到它？
+过了这么多年，你为什么要现在说出真相？
+过了这么多年？
+自事件发生以来我一直在恳求警察
+告诉他们是我做的他们应该逮捕我
+我已经说了十年
+但是没人听
+然后他们离开这里
+其他人接替他们的位置
+我告诉他们他们也不听
+听说内斯林的女儿当了警察
+我以为
+也许她会听我的
+但是我应该怎么找到你呢？
+然后，有一天你突然出现在坎布拉
+纳兹，你有垃圾吗？
+你的门没锁
+纳兹？
+你在家里吗？我是塞菲
+火灾当晚还有谁跟你在一起？
+我不记得了
+但是我很确定所有人都在那里
+好的
+如果塔亚尔凯马克从未偷过任何东西
+那为什么那群人聚集在他的房子外面，并且要杀死他？
+怎么会这样
+因为他们是吉普赛人
+因为他们是吉普赛人？
+你是在告诉我所有人，包括那些孩子
+他们被杀是因为他们是吉普赛人？
+那是唯一的原因吗？是的
+你怎么知道的？谁告诉你的？
+没人告诉我
+没人告诉我，因为
+我记得很清楚
+我不记得是谁
+但我记得很清楚
+我说的是什么，我在扔那个火炬时大喊
+你在喊什么，乌福克？
+滚出坎布拉！
+滚出去，你们这些肮脏的吉普赛人！
+我把一切都告诉了内芙拉，但她不相信我
+我们美丽的公寓将会上新闻
+你这个恶魔，你会给我们带来不幸
+报纸上说
+我可以获得情报的报酬我能得到多少？
+我给你钱
+他可能有一个特殊的朋友，可能是他做的
+你认为她在出卖身体吗？你怎么看？
+我不认为她在出卖自己的身体
+不像你
+不要那样，走吧
+让他走！让可怜的男孩走！
+你要我们冲进去找他吗？
+嗯我儿子
+我的儿子！不要害怕我不会把你留在那里！
+我不会让任何人伤害你！
+让我走！
+他有诊断！我告诉你！我儿子病了！
+放开他！儿子！乌福克！
+乌福克！
+他有诊断！
+他真的有诊断
+声明他精神状况不佳他不用承担任何责任
+我试着告诉过你，但你不听
+诊断精神健康状况不佳
+塞法认真听我说
+保持警惕，待在楼里
+我已经发给你一份备份很快就会到
+可以把你们和犯罪嫌疑人带出去
+什么？
+我承担所有责任一定要把那个家伙带给我
+去吧明白长官
+我不喝了
+来吧你只喝了一杯
+另外，在坎布拉喝酒真的很难
+聚会怎么样？
+什么？你的聚会怎么样？
+哦，很好，很好
+我遇到了一个老相识，还是你父亲在这儿的时候认识的
+真有趣
+你可能比我更了解我的父亲
+你想要什么？
+请原谅
+喂？
+什么？
+带他去伊斯坦布尔？
+无论如何不能让他们把他带走
+别让我失望
+明白吗？
+可能任何人都比我更了解我父亲
+好了
+放了他！让我儿子走！
+把他带走！马上带他走！
+费扎？轮到你了
+来吧
+她有一副好嗓子等着听
+来吧费扎他们都在听
+来吧费扎
+我的头是泡沫状的云
+我的头是泡沫状的云
+我的内外都是大海
+我是古尔哈内公园的一棵核桃树
+一棵老核桃树，长着树枝和碎片
+你不知道
+警察也不知道
+当我背诵这首诗时
+我感觉我正在太空旅行
+如果你不这样做
+那我自己去做
+我就自己做，我会证明给大家看
+他在里面做什么？
+他在干什么？
+乌福克
+乌福克，出来吧
+该死！
+该死！
+该死！
+该死！，该死，该死！
+你在干什么，怎么搞的，笨蛋？
+所有单位请注意，我重复一遍
+17970犯罪嫌疑人身高179体重70公斤
+他的脸上有明显的烧伤痕迹。他的名字叫乌福克泰拉齐
+没看到他他会去哪里？
+去他家看看在哪里？
+我们应该去检查他的家
+这里发生了什么？
+没时间跟你废话
+这是怎么回事？这是怎么回事？
+离开这
+他们想要什么？他们要乌福克，长官
+你好啊
+不要靠近我当然，我不会
+一切到此为止
+你不能改变我的主意
+我不会干涉你你是谁？
+我只想要回小刀什么刀？
+刚刚那是你吗？是的
+你怎么知道我会去那里的？毕竟我也来自坎布拉
+大家都知道那个地方，你可以称之为越狱中心
+陶菲克曾在那个地方越狱
+大家都知道他们过去常常把它讲得像童话故事一样。
+他们也一定告诉过你，对吧？
+我从没见过你
+你来自坎布拉吗？
+实际上，陶菲克建了那个地方
+当他听说他要被转运到
+伊斯坦布尔的监狱时，他召集他的手下
+告诉他们在高速公路上建造一个公共厕所
+他要警察在那里停下，然后他从窗户逃跑
+他们曾经称它为罐子
+罐子
+后来越狱中心渐渐被人们所熟知
+已经过去好多年了啊
+你想从我这里得到什么？为什么要帮助我？
+你给你的弟弟乌穆特发了短信，告诉他你将要自杀
+你说什么？
+女警察回到坎布拉
+我要告诉他们一切
+他们要么抓我入狱，要么我自杀
+你怎么知道我发给乌穆特的短信？所以我让我说完
+让我说完我想告诉你一个故事
+我看到他们把你带走我看到外面的人群
+让警察放了你，告诉警察说你有诊断
+我就决定在越狱中心等待你世事难料，对吧？
+你怎么知道我发给乌穆特的信息？
+他在哪里？乌穆特也在这里吗？
+不，孩子乌穆特不在这
+是他让你来的你可以这么说
+所以你认识吗？我认识他吗？当然认识！
+我认识乌穆特我也认识塞菲
+坎布拉的所有人都认识你们
+每个人曾经都很爱你们
+他们会说快看，是三胞胎！
+我不想耽搁你太久请你继续
+我就只是站在这里
+请把刀还给我给你
+非常感谢
+他不在这里！离开这里！
+离开这里！乌福克逃跑了！
+离开这里，方便我们找他！
+我们哪都不会去
+没有乌福克我们哪都不去他在哪里？
+他在车上，我就知道！让他们不知所措，把他救出来！
+我们走吧
+他们是在放烟花吗？
+你需要帮忙吗？孩子？别靠近了
+很有趣
+前几天我去看话剧
+有一个类似于这个的场景
+不完全相同，但很接近
+一开始我觉得不可信
+但我现在认为他们说的有点道理
+他们说良心很像内心
+内脏就像良心
+如果你想让它空出来，你就必须自杀
+很有趣你看
+我为你准备了这个
+贴在额头上
+但是既然你将要自杀了
+我不想不尊重你
+我不想介于你和你的良心之间
+那就是我不会干涉你的原因
+继续
+我想知道我们中谁是最疯狂的走开！
+你需要帮助吗？别过来！
+当然可以，但别拖延了
+警察正在找你他们可能很快就会来
+快点把自己吊起来，就像这样，懂吗？
+不是那样的，小心点
+对了！
+松手把！
+结束自己的生命吧不再有良心的痛苦乌福克
+继续，不要害怕
+继续！
+哪去了？
+真有趣
+这正是我教我女儿游泳的方法
+我们在埃尔德克
+她在船上我在水里
+我让她跳下来
+她不跳
+我告诉她我就在那里，没有什么可害怕的
+来吧，到爸爸这来
+放自己走
+来吧
+就是这样！
+祖哈尔不会跳
+她只是呆在那里
+我的小女儿不相信她的父亲
+她拥有她的年龄不应拥有的智慧
+狗杀手
