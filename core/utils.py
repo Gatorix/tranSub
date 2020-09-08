@@ -1,3 +1,4 @@
+import time
 import os
 import sys
 import re
@@ -9,23 +10,29 @@ def load_sub_file(path):
     return pysubs2.load(path)
 
 
-def get_plaintext(path):
+def get_plaintext(subs):
     # 提取字幕中的纯文本
-    subs = load_sub_file(path)
     lines = []
     for i in range(len(subs)):
         lines.append(subs[i].plaintext+'\n')
     return lines
 
 
-def get_setimes(path):
-    # 获取每条字幕的起止时间
-    subs = load_sub_file(path)
-    se=[]
+def get_start_time(subs):
+    # 获取每条字幕的开始时间
+    st = []
     for i in range(len(subs)):
-        se.append('%s --> %s' %
-              (format_ms(subs[i].start), format_ms(subs[i].end)))
-    return se
+        st.append(format_ms(subs[i].start))
+    return st
+
+
+def get_end_time(subs):
+    # 获取每条字幕的结束时间
+    et = []
+    for i in range(len(subs)):
+        et.append(format_ms(subs[i].end))
+    return et
+
 
 def write_txt(file_name, lines):
     # 创建txt文件，并写入文本
@@ -64,3 +71,37 @@ def format_ms(ms):
         return "%02d:%02d:%02d,%03d" % (h, m, s, ms)
     else:
         print('字幕文件中存在时间格式错误\nThere is a time format error in the subtitle file')
+
+
+class Timer:
+    # 计时器
+    def __init__(self, func=time.perf_counter):
+        self.elapsed = 0.0
+        self._func = func
+        self._start = None
+
+    def start(self):
+        if self._start is not None:
+            raise RuntimeError('Already started')
+        self._start = self._func()
+
+    def stop(self):
+        if self._start is None:
+            raise RuntimeError('Not started')
+        end = self._func()
+        self.elapsed += end - self._start
+        self._start = None
+
+    def reset(self):
+        self.elapsed = 0.0
+
+    @property
+    def running(self):
+        return self._start is not None
+
+    def __enter__(self):
+        self.start()
+        return self
+
+    def __exit__(self, *args):
+        self.stop()

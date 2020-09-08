@@ -1,5 +1,5 @@
 import utils
 
 
-def srt2ass(path):
+def srt2ss(path):
     pass
