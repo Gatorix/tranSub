@@ -11,18 +11,17 @@ def ss2srt(path):
 
     subs = utils.load_sub_file(path)
 
-    start_time = utils.get_start_time(subs)
-    end_time = utils.get_end_time(subs)
+    start_time = utils.get_start_time(subs,'srt')
+    end_time = utils.get_end_time(subs,'srt')
     plaintext = utils.get_plaintext(subs)
-
     format_sub = []
 
-    for i in range(len(plaintext)):
+    for i in range(len(subs)):
         format_sub.append('%s\n' % (i+1))
         format_sub.append('%s --> %s\n' % (start_time[i], end_time[i]))
         format_sub.append('%s\n' % (plaintext[i]))
 
-    utils.write_txt('%s.srt' % (output_file_name), format_sub)
+    utils.write_lines('%s.srt' % (output_file_name), format_sub)
 
     timer.stop()
 

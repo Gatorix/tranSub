@@ -18,26 +18,33 @@ def get_plaintext(subs):
     return lines
 
 
-def get_start_time(subs):
+def get_start_time(subs,fmt):
     # 获取每条字幕的开始时间
     st = []
     for i in range(len(subs)):
-        st.append(format_ms(subs[i].start))
+        st.append(format_ms(subs[i].start,fmt))
     return st
 
 
-def get_end_time(subs):
+def get_end_time(subs,fmt):
     # 获取每条字幕的结束时间
     et = []
     for i in range(len(subs)):
-        et.append(format_ms(subs[i].end))
+        et.append(format_ms(subs[i].end,fmt))
     return et
 
 
-def write_txt(file_name, lines):
-    # 创建txt文件，并写入文本
-    with open(file_name, mode='w') as f:
+def write_lines(file_name, lines, mode='w'):
+    # 创建txt文件，并写入list
+    with open(file_name, mode=mode) as f:
         f.writelines(lines)
+        f.close()
+
+
+def write_txt(file_name, txt, mode='w'):
+    # 创建txt文件，并写入文本
+    with open(file_name, mode=mode) as f:
+        f.write(txt)
         f.close()
 
 
@@ -62,16 +69,19 @@ def get_filename(path):
     return filename
 
 
-def format_ms(ms):
+def format_ms(ms, fmt):
     # 毫秒转换成h:m:s.ms
-    if str(ms).isdigit():
+
+    try:
         s, ms = divmod(ms, 1000)
         m, s = divmod(s, 60)
         h, m = divmod(m, 60)
-        return "%02d:%02d:%02d,%03d" % (h, m, s, ms)
-    else:
-        print('字幕文件中存在时间格式错误\nThere is a time format error in the subtitle file')
-
+        if fmt == 'srt':
+            return "%02d:%02d:%02d,%03d" % (h, m, s, ms)
+        elif fmt == 'ass':
+            return "%d:%02d:%02d.%03d" % (h, m, s, ms)
+    except Exception as e:
+        print(e)
 
 class Timer:
     # 计时器
