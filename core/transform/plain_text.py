@@ -1,7 +1,7 @@
 import utils
 import sys
 
-path = r'/Users/caosheng/Documents/tranSub/temp/Sahsiyet S01E06 ZH_CN&EN1.ass'
+path = r'/Users/caosheng/Documents/tranSub/temp/Sahsiyet S01E01 ZH_CN&EN.ass'
 
 output_file_name = utils.get_filename(path)
 
@@ -39,4 +39,4 @@ def extract_plain_text(path, english_only=False, chinese_only=False):
     print('转换完成，用时%.2f秒' % (timer.elapsed))
 
 
-extract_plain_text(path,chinese_only=True,english_only=True)
+extract_plain_text(path)
