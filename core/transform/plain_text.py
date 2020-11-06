@@ -1,7 +1,7 @@
 import utils
 import sys
 
-path = r'/Users/caosheng/Documents/tranSub/temp/Sahsiyet S01E01 ZH_CN&EN.ass'
+path = r'/Users/caosheng/Downloads/Kota Factory (webm)/(English)(499) Kota Factory - EP 01 - Inventory - YouTube.srt'
 
 output_file_name = utils.get_filename(path)
 
@@ -36,7 +36,7 @@ def extract_plain_text(path, english_only=False, chinese_only=False):
 
     timer.stop()
 
-    print('转换完成，用时%.2f秒' % (timer.elapsed))
+    print('提取完成，用时%.2f秒' % (timer.elapsed))
 
 
 extract_plain_text(path)

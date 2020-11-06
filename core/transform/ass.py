@@ -34,7 +34,7 @@ Style: Default-L2,微软雅黑,32,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     ''' % (title, warp_style)
 
-
+import numpy
 # print(type(script_info()))
 # Dialogue: 2, 1: 01: 57.52, 1: 02: 01.12, Default, , 0, 0, 0, , {\fad(200, 200)}救救我  内芙拉
 
