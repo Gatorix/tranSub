@@ -1,7 +1,8 @@
 import utils
 
-path = r'/Users/caosheng/Documents/tranSub/temp/Sahsiyet S01E08 ZH_CN&EN.ssa'
-output_file_name = utils.get_filename(path)
+path = r'/Users/caosheng/Downloads/kota factory/Kota Factory - EP 01 - Inventory.ass'
+output_path
+output_filename = utils.get_filename(path)
 
 
 def ss2srt(path):
@@ -21,7 +22,7 @@ def ss2srt(path):
         format_sub.append('%s --> %s\n' % (start_time[i], end_time[i]))
         format_sub.append('%s\n' % (plaintext[i]))
 
-    utils.write_lines('%s.srt' % (output_file_name), format_sub)
+    utils.write_lines('%s.srt' % (output_filename), format_sub)
 
     timer.stop()
 
