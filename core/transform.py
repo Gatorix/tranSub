@@ -34,7 +34,7 @@ Style: Default-L2,微软雅黑,32,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     ''' % (title, warp_style)
 
-import numpy
+# import numpy
 # print(type(script_info()))
 # Dialogue: 2, 1: 01: 57.52, 1: 02: 01.12, Default, , 0, 0, 0, , {\fad(200, 200)}救救我  内芙拉
 
@@ -46,8 +46,8 @@ def srt2ss(path, is_ass=True):
 
     subs = utils.load_sub_file(path)
 
-    start_time = utils.get_start_time(subs,'ass')
-    end_time = utils.get_end_time(subs,'ass')
+    start_time = utils.get_start_time(subs, 'ass')
+    end_time = utils.get_end_time(subs, 'ass')
     plaintext = utils.get_plaintext(subs)
 
     sub_block = []
@@ -68,24 +68,40 @@ def srt2ss(path, is_ass=True):
     print('转换完成，用时%.2f秒' % (timer.elapsed))
 
 
-def ss2srt(path):
+def ss2srt(path, chinese_only=False, english_only=False, Tchinese_only=False):
 
     timer = utils.Timer()
     timer.start()
 
     subs = utils.load_sub_file(path)
 
-    start_time = utils.get_start_time(subs,'srt')
-    end_time = utils.get_end_time(subs,'srt')
+    start_time = utils.get_start_time(subs, 'srt')
+    end_time = utils.get_end_time(subs, 'srt')
     plaintext = utils.get_plaintext(subs)
     format_sub = []
 
-    for i in range(len(subs)):
-        format_sub.append('%s\n' % (i+1))
-        format_sub.append('%s --> %s\n' % (start_time[i], end_time[i]))
-        format_sub.append('%s\n' % (plaintext[i]))
+    if chinese_only == True:
+        pass
+    elif english_only == True:
+        pass
+    elif Tchinese_only == True:
+        pass
+    else:
+        # 简体&英文双语
+        for i in range(len(subs)):
+            format_sub.append('%s\n' % (i+1))
+            if start_time[i] == start_time[i-1] and end_time[i] == end_time[i-1]:
+                format_sub.append('%s --> %s\n' % (start_time[i], end_time[i]))
+                format_sub.append('%s' % (plaintext[i-1]))
+                format_sub.append('%s\n' % (plaintext[i]))
+            elif start_time[i] == start_time[i+1] and end_time[i] == end_time[i+1]:
+                format_sub.remove(format_sub[-1])
+                pass
+            else:
+                format_sub.append('%s --> %s\n' % (start_time[i], end_time[i]))
+                format_sub.append('%s\n' % (plaintext[i]))
 
-    utils.write_lines('%s.srt' % (output_filename), format_sub)
+    utils.write_lines('%s.srt' % ("test"), format_sub)
 
     timer.stop()
 

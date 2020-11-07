@@ -35,7 +35,7 @@ def get_end_time(subs, fmt):
 
 
 def write_lines(file_name, lines, mode='w'):
-    # 创建txt文件，并写入list
+    # 创建文件，并写入list
     with open(file_name, mode=mode) as f:
         f.writelines(lines)
         f.close()
