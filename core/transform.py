@@ -1,10 +1,10 @@
 import utils
 
 path = r'/Users/caosheng/Documents/tranSub/temp/Sahsiyet S01E08 ZH_CN&EN.ssa'
-output_file_name = utils.get_filename(path)
+output_filename = utils.get_filename(path)
 
 
-def script_info(title=output_file_name, warp_style=2):
+def script_info(title=output_filename, warp_style=2):
 
     return '''
 [Script Info]
@@ -60,12 +60,33 @@ def srt2ss(path, is_ass=True):
     for i in range(len(subs)):
         sub_block.append('Dialogue: %d, %s, %s, %s, %s, %d, %d, %s, %s' % (
             LAYER, start_time[i], end_time[i], STYLE, NAME, MARGINL, MARGINV, EFFECT, plaintext[i]))
-    utils.write_txt('%s.ass' % (output_file_name), script_info())
-    utils.write_lines('%s.ass' % (output_file_name), sub_block, mode='a')
+    utils.write_txt('%s.ass' % (output_filename), script_info())
+    utils.write_lines('%s.ass' % (output_filename), sub_block, mode='a')
 
     timer.stop()
 
     print('转换完成，用时%.2f秒' % (timer.elapsed))
 
 
-srt2ss(path)
+def ss2srt(path):
+
+    timer = utils.Timer()
+    timer.start()
+
+    subs = utils.load_sub_file(path)
+
+    start_time = utils.get_start_time(subs,'srt')
+    end_time = utils.get_end_time(subs,'srt')
+    plaintext = utils.get_plaintext(subs)
+    format_sub = []
+
+    for i in range(len(subs)):
+        format_sub.append('%s\n' % (i+1))
+        format_sub.append('%s --> %s\n' % (start_time[i], end_time[i]))
+        format_sub.append('%s\n' % (plaintext[i]))
+
+    utils.write_lines('%s.srt' % (output_filename), format_sub)
+
+    timer.stop()
+
+    print('转换完成，用时%.2f秒' % (timer.elapsed))

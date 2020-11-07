@@ -18,19 +18,19 @@ def get_plaintext(subs):
     return lines
 
 
-def get_start_time(subs,fmt):
+def get_start_time(subs, fmt):
     # 获取每条字幕的开始时间
     st = []
     for i in range(len(subs)):
-        st.append(format_ms(subs[i].start,fmt))
+        st.append(format_ms(subs[i].start, fmt))
     return st
 
 
-def get_end_time(subs,fmt):
+def get_end_time(subs, fmt):
     # 获取每条字幕的结束时间
     et = []
     for i in range(len(subs)):
-        et.append(format_ms(subs[i].end,fmt))
+        et.append(format_ms(subs[i].end, fmt))
     return et
 
 
@@ -83,6 +83,7 @@ def format_ms(ms, fmt):
     except Exception as e:
         print(e)
 
+
 class Timer:
     # 计时器
     def __init__(self, func=time.perf_counter):
@@ -115,3 +116,29 @@ class Timer:
 
     def __exit__(self, *args):
         self.stop()
+
+# def get_all_filepath(filepath):
+#     # 遍历filepath下所有文件，包括子目录
+#     files = os.listdir(filepath)
+#     for fi in files:
+#         fi_d = os.path.join(filepath, fi)
+#         # 判断是否子文件夹
+#         # 如果是，重新运行此函数，直到最末级
+#         if os.path.isdir(fi_d):
+#             get_all_filepath(fi_d)
+#         # 不是输出文件路径
+#         else:
+#             print(os.path.join(filepath, fi_d))
+
+def get_all_filepath(folder):
+    # 获取指定路径下的所有.ass文件
+    file_path = []
+    for fpathe, dirs, fs in os.walk(folder):
+        for f in fs:
+            if '.DS_Store' in os.path.join(fpathe, f):
+                pass
+            elif os.path.join(fpathe, f)[-4:] != '.ass':
+                pass
+            else:
+                file_path.append(os.path.join(fpathe, f))
+    return file_path
